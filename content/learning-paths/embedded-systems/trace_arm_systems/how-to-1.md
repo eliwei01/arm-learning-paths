@@ -1,10 +1,10 @@
 ---
-title: PLACEHOLDER STEP TITLE 1
+title: Possible trace options
 weight: 2
 
 ### FIXED, DO NOT MODIFY
 layout: learningpathall
 ---
 
-## PLACEHOLDER HEADER 
-YOUR CONTENT GOES HERE
+## Possible trace options 
+Trace is 
