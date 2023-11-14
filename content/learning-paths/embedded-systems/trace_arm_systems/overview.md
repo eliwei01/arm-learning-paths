@@ -9,7 +9,7 @@ layout: learningpathall
 ## Overview
 Trace is the process of capturing data that shows how the components in a design are operating, executing, or performing.
 
-What kind of trace is possible is entirely dependent on the target you are using.
+What kind of trace is possible is dependent on the target you are using.
 
 This learning path gives steps to help you determine:
 

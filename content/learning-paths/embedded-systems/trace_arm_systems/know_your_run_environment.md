@@ -7,7 +7,7 @@ layout: learningpathall
 ---
 
 ## Know your run environment
-Depending on the capabilities of the target, Arm systems can get trace data using Self-hosted trace or external trace. 
+Depending on the capabilities of the target, Arm-based systems can get trace data using Self-hosted trace or external trace. 
 
 Self-hosted trace happens when the agent controlling the trace collection is part of the same software stack as the software being traced.
 
@@ -19,7 +19,7 @@ Step:
 
     1. Determine whether Self-hosted trace or external trace best fits your run environment.
     2. If Self-hosted trace best fits, create or find the appropriate software to run for your target.
-    3. If external trace, determine the external trace method or tool that best fits the target you are working with.
+    3. If external trace best fits, determine the external trace method or tool that best fits the target you are working with.
 
 IMAGE HERE:
 ![example image alt-text#center](example-picture.png "Figure 1. Example image caption")
