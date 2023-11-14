@@ -6,7 +6,7 @@ weight: 2
 layout: learningpathall
 ---
 
-## Oveview
+## Overview
 Trace is the process of capturing data that shows how the components in a design are operating, executing, or performing.
 
 What kind of trace is possible is entirely dependent on the target you are using.
