@@ -13,6 +13,6 @@ What kind of trace is possible is dependent on the target you are using.
 
 This learning path gives steps to help you determine:
 
-    * What type of Arm trace best fits your target
-    * What trace capabilities your target has
-    * What tools to use to capture and analyze trace data
+- What type of Arm trace best fits your target
+- What trace capabilities your target has
+- What tools to use to capture and analyze trace data
