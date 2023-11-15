@@ -1,13 +1,12 @@
 ---
-title: PLACEHOLDER STEP TITLE 2
+title: What tools to use
 weight: 3
 
 ### FIXED, DO NOT MODIFY
 layout: learningpathall
 ---
 
-## PLACEHOLDER HEADER OF SECOND STEP
-YOUR CONTENT GOES HERE
+## What tools to use
+The external trace solution you can purchase from Arm is [Arm Development Studio (Arm DS)](https://developer.arm.com/Tools%20and%20Software/Arm%20Development%20Studio). To capture trace with Arm DS, you must have an   
 
-IMAGE HERE:
-![example image alt-text#center](example-picture.png "Figure 1. Example image caption")
+
