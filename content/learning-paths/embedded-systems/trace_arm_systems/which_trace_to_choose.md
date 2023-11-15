@@ -21,9 +21,11 @@ More recent Arm-based systems implement [CoreSight](https://developer.arm.com/Ar
 Steps:
 
 1. Consult your target documentation or designer to determine what CoreSight components are present on the target.
-2. Based on what CoreSight components are implemented and what you are trying to trace, choose 
+2. Based on what CoreSight components are implemented and what you are trying to trace, choose which trace components to use.
 
+Resources on this subject:
 
-
-IMAGE HERE:
-![example image alt-text#center](example-picture.png "Figure 1. Example image caption")
+- [Learn the architecture - Understanding trace](https://developer.arm.com/documentation/102119/latest/?lang=en)
+    - This guide focuses on a high-level view of trace in Armv7 systems, and Armv8 systems up to version Armv8.4.
+- [Learn the architecture - Understanding Armv9-A trace guide](https://developer.arm.com/documentation/102856/latest/?lang=en)
+    - This guide focuses on the Embedded Trace Extension (ETE) and the Trace Buffer Extension (TRBE)introduced in Armv9-A.
