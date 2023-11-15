@@ -28,8 +28,8 @@ More recent Arm-based systems implement [CoreSight](https://developer.arm.com/Ar
 
 Steps:
 
-   1. Consult your target documentation or designer to determine what CoreSight components are present on the target.
-   2. Based on what CoreSight components are implemented and what you are trying to trace, choose 
+1. Consult your target documentation or designer to determine what CoreSight components are present on the target.
+2. Based on what CoreSight components are implemented and what you are trying to trace, choose 
 
 
 
