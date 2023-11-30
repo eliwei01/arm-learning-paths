@@ -19,6 +19,8 @@ Read more about tracing with Arm DS and DSTREAM from:
 
 An Arm created, open source solution for external trace is [OpenCSD](https://github.com/Linaro/OpenCSD). See the previous link for more details about OpenCSD.
 
+Many other trace tools and solutions are available for Arm-based systems. For example, your company might have its own in-house trace tools that works well with your target or your tracing requirements. Consult colleagues or others knowledgeable in trace to find the best solution for you.
+
 {{% notice Tip %}}
 External trace tools often do not interact well with Self-hosted trace. It is best to use external trace or Self-hosted trace, not both at the same time.
 {{% /notice %}}
