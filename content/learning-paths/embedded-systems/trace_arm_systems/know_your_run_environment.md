@@ -7,7 +7,7 @@ layout: learningpathall
 ---
 
 ## Know your run environment
-Depending on the capabilities of the target, Arm-based systems can get trace data using Self-hosted trace or external trace. 
+Depending on the capabilities of the target, Arm-based systems can potential get trace data using two different trace modes: Self-hosted trace or external trace. 
 
 Self-hosted trace happens when the agent controlling the trace collection is part of the same software stack as the software being traced.
 

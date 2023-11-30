@@ -13,6 +13,7 @@ What kind of trace is possible is dependent on the target you are using.
 
 This learning path gives steps to help you determine:
 
-- What type of Arm trace best fits your target
-- What trace capabilities your target has
-- What tools to use to capture and analyze trace data
+- What trace mode best fits your run environment (know your run environment)
+- Which trace types are available for your target (which trace to choose)
+- What each trace type can be used for (what trace is used for)
+- What tools to use to trace (what tools to use)
