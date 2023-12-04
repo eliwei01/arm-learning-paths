@@ -1,20 +1,20 @@
 ---
-next_step_guidance: PLACEHOLDER TEXT 1
+next_step_guidance: Read the following for more information about trace on Arm-based systems
 
-recommended_path: /learning-paths/PLACEHOLDER_CATEGORY/PLACEHOLDER_LEARNING_PATH/
+recommended_path: /learning-paths/embedded-systems/armds
 
 further_reading:
     - resource:
-        title: PLACEHOLDER MANUAL 
-        link: PLACEHOLDER MANUAL LINK
+        title: Learn the architecture - Understanding trace 
+        link: https://developer.arm.com/documentation/102119/latest/?lang=en
         type: documentation
     - resource:
-        title: PLACEHOLDER BLOG 
-        link: PLACEHOLDER BLOG LINK
-        type: blog
+        title: Learn the architecture - Understanding Armv9-A trace guide
+        link: https://developer.arm.com/documentation/102856/latest/?lang=en
+        type: documentation
     - resource:
-        title: PLACEHOLDER GENERAL WEBSITE 
-        link: PLACEHOLDER GENERAL WEBSITE LINK
+        title: Arm Development Studio 
+        link: https://developer.arm.com/Tools%20and%20Software/Arm%20Development%20Studio
         type: website
 
 

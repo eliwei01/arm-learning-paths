@@ -23,7 +23,7 @@ subjects: Performance and Architecture
 armips:
     - CoreSight
 tools_software_languages:
-    - None
+    - Assembly
 operatingsystems:
     - Baremetal
 
