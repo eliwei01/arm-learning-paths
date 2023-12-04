@@ -3,17 +3,17 @@ title: Trace Arm systems
 
 minutes_to_complete: 40
 
-who_is_this_for: Software developers
+who_is_this_for: Software developers who want to trace an Arm-based system.
 
 learning_objectives: 
-    - What trace mode best fits your run environment (know your run environment)
-    - Which trace types are available for your target (which trace to choose)
-    - What each trace type can be used for (what trace is used for)
-    - What tools to use to trace (what tools to use)
+    - What trace mode best fits your run environment
+    - Which trace types are available for your target
+    - What each trace type can be used for
+    - What tools to use to trace
 
 prerequisites:
-    - PLACEHOLDER PREREQ 1
-    - PLACEHOLDER PREREQ 2
+    - An Arm-based target.
+    - Knowledge of the trace implementation of the target.
 
 author_primary: Elizabeth Weidmann
 
