@@ -2,37 +2,25 @@
 review:
     - questions:
         question: >
-            PLACEHOLDER QUESTION 1?
+            If an Arm processor is tracing another Arm processor on the same chip, what trace mode is used?
         answers:
-            - PLACEHOLDER ANSWER A
-            - PLACEHOLDER ANSWER B
+            - external trace
+            - Self-hosted trace
         correct_answer: 1                    
         explanation: >
-            PLACEHOLDER EXPLANATION 1
+            Because the processor being traced is not in the same software stack as the processor doing the tracing, the trace mode used is external trace.
 
     - questions:
         question: >
-            PLACEHOLDER QUESTION 2?
+            If you want to see what instructions were executed by an Armv9-A processor, which trace component do you use?
         answers:
-            - PLACEHOLDER ANSWER A
-            - PLACEHOLDER ANSWER B
-            - PLACEHOLDER ANSWER C
-            - PLACEHOLDER ANSWER D
-        correct_answer: 4                   
+            - ETM
+            - ITM
+            - ETE
+            - STM
+        correct_answer: 3                   
         explanation: >
-            PLACEHOLDER EXPLANATION 2
-               
-    - questions:
-        question: >
-            PLACEHOLDER QUESTION 3?
-        answers:
-            - PLACEHOLDER ANSWER A
-            - PLACEHOLDER ANSWER B
-            - PLACEHOLDER ANSWER C
-            - PLACEHOLDER ANSWER D
-        correct_answer: 2          
-        explanation: >
-            PLACEHOLDER EXPLANATION 3
+            Armv9-A processor use an ETE to trace instruction execution.
 
 
 

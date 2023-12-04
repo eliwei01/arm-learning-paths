@@ -7,7 +7,7 @@ layout: learningpathall
 ---
 
 ## Which trace to choose
-More recent Arm-based systems implement [CoreSight](https://developer.arm.com/Architectures/CoreSight%20Architecture). CoreSight infrastructure allows trace data to be generated, stored, or moved off-target for analysis. What CoreSight infrastructure a target has is dependent on the target designer. 
+More recent Arm-based systems implement [CoreSight](https://developer.arm.com/Architectures/CoreSight%20Architecture). CoreSight infrastructure allows trace data to be generated, stored, and moved off-target for analysis. What CoreSight infrastructure a target has is dependent on the target design. 
 
 The following table lists:
 - The types of trace you can capture in an Arm-based system.
@@ -34,4 +34,4 @@ Resources on this subject:
 - [Learn the architecture - Understanding trace](https://developer.arm.com/documentation/102119/latest/?lang=en)
     - This guide focuses on a high-level view of trace in Armv7 systems, and Armv8 systems up to version Armv8.4.
 - [Learn the architecture - Understanding Armv9-A trace guide](https://developer.arm.com/documentation/102856/latest/?lang=en)
-    - This guide focuses on the Embedded Trace Extension (ETE) and the Trace Buffer Extension (TRBE)introduced in Armv9-A.
+    - This guide focuses on the Embedded Trace Extension (ETE) and the Trace Buffer Extension (TRBE) introduced in Armv9-A.
