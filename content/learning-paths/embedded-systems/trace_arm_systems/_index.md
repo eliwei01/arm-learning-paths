@@ -6,10 +6,10 @@ minutes_to_complete: 40
 who_is_this_for: Software developers who want to trace an Arm-based system.
 
 learning_objectives: 
-    - What trace mode best fits your run environment
-    - Which trace types are available for your target
-    - What each trace type can be used for
-    - What tools to use to trace
+    - Understand which trace mode best fits your run environment
+    - Know the different trace types available for your target
+    - Understand what each trace type can be used for
+    - Pick tools to use to trace
 
 prerequisites:
     - An Arm-based target.
