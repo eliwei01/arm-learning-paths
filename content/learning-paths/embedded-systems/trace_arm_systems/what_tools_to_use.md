@@ -1,6 +1,6 @@
 ---
 title: What tools to use
-weight: 3
+weight: 5
 
 ### FIXED, DO NOT MODIFY
 layout: learningpathall

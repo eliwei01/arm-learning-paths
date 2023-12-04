@@ -1,6 +1,6 @@
 ---
 title: PLACEHOLDER STEP TITLE 2
-weight: 3
+weight: 7
 
 ### FIXED, DO NOT MODIFY
 layout: learningpathall

@@ -1,6 +1,6 @@
 ---
 title: What trace is used for
-weight: 3
+weight: 4
 
 ### FIXED, DO NOT MODIFY
 layout: learningpathall

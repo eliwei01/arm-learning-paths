@@ -6,8 +6,10 @@ minutes_to_complete: 40
 who_is_this_for: Software developers
 
 learning_objectives: 
-    - Learn what types of trace are available
-    - Understand the basics of Arm trace
+    - What trace mode best fits your run environment (know your run environment)
+    - Which trace types are available for your target (which trace to choose)
+    - What each trace type can be used for (what trace is used for)
+    - What tools to use to trace (what tools to use)
 
 prerequisites:
     - PLACEHOLDER PREREQ 1

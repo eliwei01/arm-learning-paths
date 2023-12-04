@@ -1,13 +1,15 @@
 ---
 title: Know your run environment
-weight: 3
+weight: 2
 
 ### FIXED, DO NOT MODIFY
 layout: learningpathall
 ---
 
 ## Know your run environment
-Depending on the capabilities of the target, Arm-based systems can potential get trace data using two different trace modes: Self-hosted trace or external trace. 
+Trace is the process of capturing data that shows how the components in a design are operating, executing, or performing. What kind of trace is possible is dependent on the target you are using.
+
+For example, depending on the capabilities of the target, Arm-based systems can potential get trace data using two different trace modes: Self-hosted trace or external trace. 
 
 Self-hosted trace happens when the agent controlling the trace collection is part of the same software stack as the software being traced.
 
