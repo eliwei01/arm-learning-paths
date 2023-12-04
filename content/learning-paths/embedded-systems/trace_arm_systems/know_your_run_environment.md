@@ -22,6 +22,3 @@ Step:
 1. Determine whether Self-hosted trace or external trace best fits your run environment.
 2. If Self-hosted trace best fits, create or find the appropriate software to run for your target.
 3. If external trace best fits, determine the external trace method or tool that best fits the target you are working with.
-
-IMAGE HERE:
-![example image alt-text#center](example-picture.png "Figure 1. Example image caption")

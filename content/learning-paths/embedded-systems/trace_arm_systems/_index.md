@@ -1,5 +1,5 @@
 ---
-title: Trace Arm systems
+title: How to trace an Arm-based system
 
 minutes_to_complete: 40
 
