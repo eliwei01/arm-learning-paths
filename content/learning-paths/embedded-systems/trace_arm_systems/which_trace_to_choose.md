@@ -17,8 +17,8 @@ The following table lists:
 
 | Trace type | Description | Associated CoreSight component |
 | :---: | :---: | :---: |
-| Instruction |  Generate information about the instruction execution of a core or processor | Embedded Trace Extension (ETE) and Embedded Trace Macrocell (ETM) |
-| Data |  Generate information about the data accesses of a core or processor | If supported, Embedded Trace Macrocell (ETM). |
+| Instruction |  Generate information about the instruction execution of a core | Embedded Trace Extension (ETE) and Embedded Trace Macrocell (ETM) |
+| Data |  Generate information about the data accesses of a core | If supported, Embedded Trace Macrocell (ETM). |
 | Instrumentation |  Output Operating System (OS) and application events and system information | Instrumentation Trace Macrocell (ITM) |
 | System |  Output data about components across the system | System Trace Macrocell (STM) |
 | Embedded Logic Analyzer | Capture signal information based on a set of conditions | Embedded Logic Analyzer-600 (ELA-600) and Embedded Logic Analyzer-500 (ELA-500) |

@@ -25,7 +25,7 @@ armips:
 tools_software_languages:
     - Assembly
 operatingsystems:
-    - Baremetal
+    - Bare-metal
 
 
 ### FIXED, DO NOT MODIFY

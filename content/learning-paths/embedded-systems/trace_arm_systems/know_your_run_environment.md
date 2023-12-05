@@ -15,7 +15,7 @@ Self-hosted trace happens when the agent controlling the trace collection is par
 
 External trace happens when the agent controlling the trace collection is outside the software stack being traced. For example, having a debugger setup and control trace capture of a target is external trace.
 
-For more information about Self-hosted and external trace, read the appropriate section of the Arm Architecture Reference Manual for the processor profile on your target. For example, if your target has an A-profile processor, read the [Arm Architecture Reference Manual for A-profile architecture](https://developer.arm.com/documentation/ddi0487/latest/).
+For more information about Self-hosted and external trace, read the appropriate section of the Arm Architecture Reference Manual for the core profile on your target. For example, if your target has an A-profile core, read the [Arm Architecture Reference Manual for A-profile architecture](https://developer.arm.com/documentation/ddi0487/latest/).
 
 Step:
 
