@@ -12,8 +12,8 @@ learning_objectives:
     - Pick tools to use to trace
 
 prerequisites:
-    - An Arm-based target.
-    - Knowledge of the trace implementation of the target.
+    - An Arm-based target
+    - Knowledge of the trace implementation of the target
 
 author_primary: Elizabeth Weidmann
 
