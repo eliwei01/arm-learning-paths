@@ -1,7 +1,7 @@
 ---
 title: How to trace an Arm-based system
 
-minutes_to_complete: 40
+minutes_to_complete: 30
 
 who_is_this_for: Software developers who want to trace an Arm-based system.
 
