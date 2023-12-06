@@ -31,5 +31,5 @@ Steps:
 
 1. Determine what type of target you are tracing.
 2. To learn about tracing your target, consult the target designer or read the target documentation.
-3. Implement the necessary limitations or adjustments to make to trace your target.
-4. Be aware of any changes to your target that alter or limit your ability to trace.
+3. To make trace work on your target, implement the necessary adjustments.
+4. Be aware of any changes to your target that alter or limit your trace capability.

@@ -1,5 +1,5 @@
 ---
-next_step_guidance: Read the following for more information about trace on Arm-based systems
+next_step_guidance: Read the following for more information about trace on Arm-based targets.
 
 recommended_path: /learning-paths/embedded-systems/armds
 

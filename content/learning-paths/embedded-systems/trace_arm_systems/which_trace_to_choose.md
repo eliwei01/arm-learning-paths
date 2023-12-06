@@ -7,7 +7,7 @@ layout: learningpathall
 ---
 
 ## Which trace to choose
-Most targets use the CoreSight infrastructure to generate, store, and moved trace data off-target for analysis. What CoreSight infrastructure a target has is dependent on the target design. 
+To generate, store, and move trace data off-target for analysis, most targets use the CoreSight infrastructure. What CoreSight infrastructure a target has is dependent on the target design. 
 
 The following table lists:
 - The types of trace you can capture in an Arm-based system.
@@ -21,7 +21,7 @@ The following table lists:
 | Data |  Generate information about the data accesses of a core | If supported, Embedded Trace Macrocell (ETM). |
 | Instrumentation |  Output Operating System (OS) and application events and system information | Instrumentation Trace Macrocell (ITM) |
 | System |  Output data about components across the system | System Trace Macrocell (STM) |
-| Embedded Logic Analyzer | Capture signal information based on a set of conditions | Embedded Logic Analyzer-600 (ELA-600) and Embedded Logic Analyzer-500 (ELA-500) |
+| Embedded logic analyzer | Capture signal information based on a set of conditions | Embedded Logic Analyzer-600 (ELA-600) and Embedded Logic Analyzer-500 (ELA-500) |
 | Coherent mesh network | Capture messages between components in high-end networking and enterprise compute | Coherent Mesh Network (CMN) |
 
 Steps:

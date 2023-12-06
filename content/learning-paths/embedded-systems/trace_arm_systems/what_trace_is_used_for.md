@@ -22,7 +22,7 @@ The following lists the type of trace available and their possible uses. This li
   - On a Cortex-M core, dumping useful core information.
 - System
   - To show a wider scope of target activity, monitoring signals outside the core.
-- Embedded Logic Analyzer
+- Embedded logic analyzer
   - Diagnosing target issues at the signal level. 
 - Coherent mesh network
   - Captures messages between components attached to the CMN.

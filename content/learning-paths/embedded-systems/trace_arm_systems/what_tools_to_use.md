@@ -18,9 +18,9 @@ Read more about tracing with Arm DS and DSTREAM from:
 - [Arm Development Studio User Guide](https://developer.arm.com/documentation/101470/latest/?lang=en)
 - Getting Started Guide and System and Interface Design Reference Guide for the DSTREAM you are using
 
-An Arm created, open source solution for external trace is [OpenCSD](https://github.com/Linaro/OpenCSD). See the previous link for more details about OpenCSD.
+If you are looking for an Arm created open source solution for external trace, you might want to consider [OpenCSD](https://github.com/Linaro/OpenCSD).
 
-If tracing in a Linux environment, you might want to consider the open source Arm trace solution [CoreSight Access Library](https://github.com/ARM-software/CSAL).
+If tracing in a Linux environment, you might want to consider the Arm created open source solution [CoreSight Access Library](https://github.com/ARM-software/CSAL).
 
 Many other trace tools and solutions are available for Arm-based systems. For example, your company might have its own in-house trace tools that works well with your target or your tracing requirements. To find the best solution for you, consult colleagues or others knowledgeable in trace.
 
