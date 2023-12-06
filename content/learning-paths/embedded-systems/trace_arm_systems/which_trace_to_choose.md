@@ -1,13 +1,13 @@
 ---
 title: Which trace to choose
-weight: 3
+weight: 4
 
 ### FIXED, DO NOT MODIFY
 layout: learningpathall
 ---
 
 ## Which trace to choose
-More recent Arm-based systems implement [CoreSight](https://developer.arm.com/Architectures/CoreSight%20Architecture). CoreSight infrastructure allows trace data to be generated, stored, and moved off-target for analysis. What CoreSight infrastructure a target has is dependent on the target design. 
+Most targets use the CoreSight infrastructure to generate, store, and moved trace data off-target for analysis. What CoreSight infrastructure a target has is dependent on the target design. 
 
 The following table lists:
 - The types of trace you can capture in an Arm-based system.

@@ -1,15 +1,13 @@
 ---
 title: Know your run environment
-weight: 2
+weight: 3
 
 ### FIXED, DO NOT MODIFY
 layout: learningpathall
 ---
 
 ## Know your run environment
-Trace is the process of capturing data that shows how the components in a design are operating, executing, or performing. What kind of trace is possible is dependent on the target you are using.
-
-For example, depending on the capabilities of the target, Arm-based systems can potential get trace data using 2 different trace modes: Self-hosted trace or external trace. 
+Depending on the capabilities of the target, Arm-based systems can potential get trace data using 2 different trace modes: Self-hosted trace or external trace. 
 
 Self-hosted trace happens when the agent controlling the trace collection is part of the same software stack as the software being traced.
 
@@ -17,7 +15,7 @@ External trace happens when the agent controlling the trace collection is outsid
 
 For more information about Self-hosted and external trace, read the appropriate section of the Arm Architecture Reference Manual for the core profile on your target. For example, if your target has an A-profile core, read the [Arm Architecture Reference Manual for A-profile architecture](https://developer.arm.com/documentation/ddi0487/latest/).
 
-Step:
+Steps:
 
 1. Determine whether Self-hosted trace or external trace best fits your run environment.
 2. If Self-hosted trace best fits, for your target, create or run the appropriate software.
