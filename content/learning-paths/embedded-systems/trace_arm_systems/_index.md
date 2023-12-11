@@ -1,11 +1,12 @@
 ---
-title: How to trace an Arm-based system
+title: Trace an Arm-based system
 
 minutes_to_complete: 30
 
 who_is_this_for: Software developers who want to trace an Arm-based system.
 
 learning_objectives: 
+    - Understand how trace works on your target
     - Understand which trace mode best fits your run environment
     - Know the different trace types available for your target
     - Understand what each trace type can be used for
@@ -13,7 +14,7 @@ learning_objectives:
 
 prerequisites:
     - An Arm-based target
-    - Knowledge of the trace implementation of the target
+    - Knowledge of the trace implementation of your target
 
 author_primary: Elizabeth Weidmann
 
