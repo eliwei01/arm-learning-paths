@@ -9,13 +9,20 @@ layout: learningpathall
 ## Know your target
 Trace is the process of capturing data that shows how the components in a design are operating, executing, or performing.
 
-What kind of trace is possible is dependent on the target you are using.
+The target implementation determines the kinds of trace you can use.
 
-Before tracing your target, you must know what type of target you are using. Some examples of target types are simulation, emulation, software model, Field Programmable Gate Array (FPGA), development platform, or silicon.
+Before tracing your target, you must know what type of target implementation you are using. The following are some examples of target implementation types:
 
-Each target types might use different trace capture methods. Different trace capture methods might have different functionality, limitations, or usage. For example, to generate and capture trace data, most Arm-based systems use [CoreSight](https://developer.arm.com/Architectures/CoreSight%20Architecture) infrastructure. In contrast, to generate and capture trace events, the Arm [Fixed Virtual Platform](https://developer.arm.com/Tools%20and%20Software/Fixed%20Virtual%20Platforms) models use a [Model Trace Interface (MTI)](https://developer.arm.com/documentation/107925/latest/Introduction-to-trace-components?lang=en).
+- Simulation
+- Emulation
+- Software model
+- Field Programmable Gate Array (FPGA)
+- Development platform
+- Production silicon
 
-During target development, the target might have limitations to the amount or accessibility of the trace infrastructure. Some limitations might include:
+Each target implementation type might use a different trace capture method. Different trace capture methods might have different functionality, limitations, or usage. For example, to generate and capture trace data, most Arm-based systems use [CoreSight](https://developer.arm.com/Architectures/CoreSight%20Architecture) infrastructure. In contrast, to generate and capture trace events, the Arm [Fixed Virtual Platform](https://developer.arm.com/Tools%20and%20Software/Fixed%20Virtual%20Platforms) models use the [Iris](hhttps://developer.arm.com/documentation/101196/latest/?lang=en) API.
+
+During target development, the target could have limitations to the amount or accessibility of the trace infrastructure. Possible limitations might include:
 
 - Inability to capture the same types of trace throughout the target development process 
 - Using different trace interfaces, software, or physical connectors
@@ -29,7 +36,7 @@ Due to the target implemention, to capture trace data, adjustments to the target
 
 Steps:
 
-1. Determine what type of target you are tracing.
+1. Determine what type of target implementation you are tracing.
 2. To learn about tracing your target, consult your target documentation or designer.
 3. To make trace work on your target, implement the necessary adjustments.
 4. Be aware of any changes to your target that alter or limit your trace capability.
