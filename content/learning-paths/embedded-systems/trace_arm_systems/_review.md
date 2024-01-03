@@ -5,14 +5,14 @@ review:
             If an Arm core is tracing another Arm processor on the same chip, what trace mode is used?
         answers:
             - external trace
-            - Self-hosted trace
+            - self-hosted trace
         correct_answer: 1                    
         explanation: >
             Because the core being traced is not in the same software stack as the core doing the tracing, the trace mode used is external trace.
 
     - questions:
         question: >
-            If you want to see what instructions an Armv9-A core excuted, which trace component do you use?
+            If you want to see what instructions an Armv9-A core executed, which trace component do you use?
         answers:
             - ETM
             - ITM

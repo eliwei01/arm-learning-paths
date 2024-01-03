@@ -27,16 +27,19 @@ During target development, the target could have limitations to the amount or ac
 - Inability to capture the same types of trace throughout the target development process 
 - Using different trace interfaces, software, or physical connectors
 
-Due to the target implemention, to capture trace data, adjustments to the target might be necessary. The following are possible adjustments necessary to get trace working:
+To capture trace data with your target, you might need to adjust your target. The following are possible adjustments necessary to get trace working:
 
-- Abide by trace bandwidth restrictions
+- Work within trace bandwidth restrictions
 - Limit the amount of trace data generated
 - Adjust trace signals delays
 - Modify system clock frequencies
 
+Before tracing, consider the state of your target. For example, tracing your target while it is booting might fail because not all the necessary components are opertional. 
+
 Steps:
 
 1. Determine what type of target implementation you are tracing.
-2. To learn about tracing your target, consult your target documentation or designer.
-3. To make trace work on your target, implement the necessary adjustments.
-4. Be aware of any changes to your target that alter or limit your trace capability.
+2. Learn about how trace works on your target by consulting your target documentation or designer.
+3. Implement the necessary adjustments required to make trace work on your target.
+4. Keep up-to-date with changes to your target, these can alter or limit your trace capabilities.
+5. Consider the target state before tracing.
