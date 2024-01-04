@@ -7,7 +7,7 @@ layout: learningpathall
 ---
 
 ## What trace is used for
-Trace is often used to diagnose run-time issues or to measure the performance of code.
+Trace is often used to diagnose run-time issues or to measure code performance.
 
 The following lists the type of trace available and their possible uses. This list is not exhaustive.
 

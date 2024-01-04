@@ -41,5 +41,5 @@ Steps:
 1. Determine what type of target implementation you are tracing.
 2. Learn about how trace works on your target by consulting your target documentation or designer.
 3. Implement the necessary adjustments required to make trace work on your target.
-4. Keep up-to-date with changes to your target, these can alter or limit your trace capabilities.
+4. Keep up-to-date with changes to your target, these changes can alter or limit your trace capabilities.
 5. Consider the target state before tracing.

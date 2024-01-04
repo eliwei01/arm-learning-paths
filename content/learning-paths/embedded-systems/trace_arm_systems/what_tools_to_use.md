@@ -20,7 +20,7 @@ Many trace tools are available for Arm-based systems. The following are some of 
   - Read more about OpenCSD from:
     - [Is it possible to decode the CoreSight raw trace data offline?](https://developer.arm.com/documentation/ka004902/latest/?lang=en)
     - [Scripts to decode ETE trace stored to a TRBE](https://developer.arm.com/documentation/ka005450/latest/?lang=en)
-- [CoreSight Access Library](https://github.com/ARM-software/CSAL) is an Arm created open source tool for doing self-hosted trace in a Linux environment.
+- [CoreSight Access Library](https://github.com/ARM-software/CSAL) is an Arm created open source tool for performing self-hosted trace in a Linux environment.
 - Your company might have its own in-house trace tools that work well with your target or your tracing requirements.
 
 To find the best solution for you, consult colleagues or others knowledgeable in trace.
