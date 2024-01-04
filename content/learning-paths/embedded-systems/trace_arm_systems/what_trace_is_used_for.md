@@ -21,7 +21,7 @@ The following lists the type of trace available and their possible uses. This li
   - Outputting printf-style debugging.
   - On a Cortex-M core, dumping useful core information.
 - System
-  - To show a wider scope of target activity, monitoring signals outside the core.
+  - Show a wider scope of target activity, monitoring signals outside the core.
 - Embedded logic analyzer
   - Diagnosing target issues at the signal level. 
 - Coherent mesh network
@@ -29,5 +29,5 @@ The following lists the type of trace available and their possible uses. This li
 
 Steps:
 - Based on the issue you are experiencing or the performance you want to measure, use the appropriate type of trace.
-- Setup the necessary CoreSight components on the target to capture the trace data you are looking for. Perform this setup either manually, with code, or with a tool. 
+- Set up the necessary CoreSight components on the target to capture the trace data you want. Perform this setup either manually, with code, or with a tool. 
 

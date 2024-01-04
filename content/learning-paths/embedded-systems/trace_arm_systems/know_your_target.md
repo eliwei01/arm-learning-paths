@@ -20,7 +20,7 @@ Before tracing your target, you must know what type of target implementation you
 - Development platform
 - Production silicon
 
-Each target implementation type might use a different trace capture method. Different trace capture methods might have different functionality, limitations, or usage. For example, to generate and capture trace data, most Arm-based systems use [CoreSight](https://developer.arm.com/Architectures/CoreSight%20Architecture) infrastructure. In contrast, to generate and capture trace events, the Arm [Fixed Virtual Platform](https://developer.arm.com/Tools%20and%20Software/Fixed%20Virtual%20Platforms) models use the [Iris](hhttps://developer.arm.com/documentation/101196/latest/?lang=en) API.
+Each target implementation type might use a different trace capture method. Different trace capture methods might have different functionality, limitations, or usage. For example, to generate and capture trace data, most Arm-based systems use [CoreSight](https://developer.arm.com/Architectures/CoreSight%20Architecture) infrastructure. In contrast, to generate and capture trace events, the Arm [Fixed Virtual Platform (FVP)](https://developer.arm.com/Tools%20and%20Software/Fixed%20Virtual%20Platforms) models use the [Iris](hhttps://developer.arm.com/documentation/101196/latest/?lang=en) API.
 
 During target development, the target could have limitations to the amount or accessibility of the trace infrastructure. Possible limitations might include:
 
